@@ -3,11 +3,11 @@ import java.util.ArrayList;
 public class ExerciseTwo {
     public static void main(String[] args) {
 
-      
+      // Code to run poker game
       PokerGame p = new PokerGame(6);
       p.playGame();
       
-      
+      // Code to count hands till a certain value is found
       /*
       Deck d1;
       PokerHand p1;
